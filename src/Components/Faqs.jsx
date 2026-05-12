@@ -40,12 +40,12 @@ const Faqs = () => {
                         />
                         <Plus
                             title="2. Where is the main event venue located precisely?"
-                            decs="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est!"
+                            decs="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam perspiciatis architecto id vero impedit est! Lorem ipsum dolor sit amet, consectetur adipisicing elit. Neque officiis facere reiciendis ab aperiam   "
                         />
                         <Plus
                             title="3. Can attendees freely switch between sessions and tracks?"
                             decs="Our event is designed with flexible scheduling, allowing you to move between halls, select sessions that
-                            interest you most, and customize your learning experience throughout the day."
+                            "
                         />
                         <Plus
                             title="4. Does the event provide virtual participation options online?"
