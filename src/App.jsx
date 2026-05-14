@@ -12,6 +12,7 @@ import VideoBtn from './Components/VideoBtn'
 import Faqs from './Components/Faqs'
 import Footer from './Components/Footer'
 import Event from './Components/Event'
+import Image from './Components/Image'
 
 
 
@@ -23,12 +24,12 @@ function App() {
     <>
       <NavBar/>
       <Banner/>
-     
       <About/>
       <CoreCard/>
       <KeyBenefits/>
       <Event/>
       <Speaker/>
+      <Image/>
       <Picnic/>
       <VideoBtn/>
       <Faqs/>

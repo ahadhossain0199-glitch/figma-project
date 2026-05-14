@@ -39,7 +39,7 @@ const KeyBenefits = () => {
 
                     </div>
                 </div>
-                <div className='flex gap-7.5 '>
+                <div className='flex gap-7.5  mb-50'>
 
                     <Btn className='mt-24'>View Our Schedule</Btn>
                     <div className='flex items-center gap-4 mt-24'>
